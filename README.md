@@ -101,7 +101,7 @@ cd ../../
 
 3b.) Run NMDS and Pairwise-PERMANOVA  analysis
 
-3c.) Run Rarefaction Curves analysis
+3c.) Run Principal Component analysis of volatile loadings 
 
 3d.) Run Ordination Triplot analysis
 
